@@ -59,18 +59,6 @@ Built from `Flight_Dashboard_Data.xlsx`. Includes:
 - **Power BI** — dashboard and visualization
 - **Python** — pandas, numpy, scikit-learn, scipy, matplotlib, seaborn
 
-## Repository Structure
-
-```
-├── average_fare_sql.xlsx                                        # Raw source data
-├── Flight_Dashboard_Data.xlsx                                   # Cleaned data (Power BI source)
-├── Flight_Analyze.sql                                           # SQL Server analysis queries
-├── fare_prediction.py                                           # Regression: fare vs. passenger volume
-├── ticket_price_distribution_of_cities_by_number_of_airports.py # Hypothesis test: competition vs. fare
-├── US_Domestic_Flight_Price_Analysis.pdf                        # Power BI dashboard export
-└── README.md
-```
-
 ## How to Reproduce
 
 1. Load `average_fare_sql.xlsx` into SQL Server and run `Flight_Analyze.sql` top to bottom.
