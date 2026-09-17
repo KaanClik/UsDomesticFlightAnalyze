@@ -5,7 +5,7 @@ import seaborn as sns
 from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 
-df=pd.read_excel(r'C:\Users\ASUS\Desktop\Projects\UsDomesticFlights\UsDomesticFlights\average_fare_sql.xlsx')
+df=pd.read_excel(r'path')
 df=df.iloc[:-3]
 
 df.info()
