@@ -55,7 +55,7 @@ Built from `Flight_Dashboard_Data.xlsx`. Includes:
 
 ## Tools & Tech Stack
 
-- **SQL Server (T-SQL)** — data cleaning, aggregation, window functions
+- **SQL Server** — data cleaning, aggregation, window functions
 - **Power BI** — dashboard and visualization
 - **Python** — pandas, numpy, scikit-learn, scipy, matplotlib, seaborn
 
