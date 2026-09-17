@@ -5,8 +5,11 @@ This project is an end-to-end data analytics solution designed to evaluate U.S. 
 
 ## Data Pipeline & Technology Stack
 **SQL:** Data extraction, transformation, window functions, and outlier analysis.
+
 **Excel:** Data staging and structural categorization for seamless BI integration.
+
 **Power BI:** Interactive dashboard development for visual analytics and geographical trends.
+
 **Python (Upcoming):** Statistical trend analysis, hypothesis testing, and advanced modeling.
 
 ## Dashboard Highlights
