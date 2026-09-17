@@ -4,7 +4,7 @@ from scipy import stats
 from scipy.stats import ttest_ind_from_stats
 import matplotlib.pyplot as plt
 
-df = pd.read_excel(r'C:\Users\ASUS\Desktop\Projects\UsDomesticFlights\UsDomesticFlights\average_fare_sql.xlsx')
+df = pd.read_excel(r'path')
 df = df.iloc[:-3]
 print(df.head())
 df.info()
